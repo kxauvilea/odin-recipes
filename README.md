@@ -1,1 +1,2 @@
 # odin-recipes
+hi!! i'm currently halfway through the odin project, and i hope that after i finish with the foundations course i'll be sufficient in my html and css skills. hopefully this will also help my college apps potentially too. thanks for reading!!
